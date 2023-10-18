@@ -46,7 +46,7 @@ int main()
              record= v[i];
          }
      }
-     printf("El número máximo del vector es: %d\n", record);
+     printf("El número mínimo del vector es: %d\n", record);
     //Media
     for(int i=0; i < TAMV(v);i++){
         ac= ac + v[i];
