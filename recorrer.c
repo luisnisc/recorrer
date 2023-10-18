@@ -53,5 +53,5 @@ int main()
       
     }
      ac= ac/tamaño;
-    printf("El número medio del vector es: %d\n", ac);
+    printf("La media del vector es: %d\n", ac);
 }
